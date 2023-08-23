@@ -1,3 +1,0 @@
-administer commerce_promo_bar:
-  title: 'Administer commerce promo bar settings'
-  restrict access: true

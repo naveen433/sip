@@ -1,5 +1,0 @@
-# Schema for the theme setting configuration file of the uppu theme.
-
-uppu.settings:
-  type: theme_settings
-  label: 'uppu settings'
