@@ -1,0 +1,4 @@
+services:
+  best_selling_products.products:
+    class: Drupal\best_selling_products\Service\ProductsService
+    arguments: ['@entity_type.manager', '@database']

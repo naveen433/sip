@@ -1,0 +1,16 @@
+block.settings.best_selling_products_block:
+  type: block_settings
+  label: 'Best selling products block settings'
+  mapping:
+    view_mode:
+      type: string
+      label: 'Select view mode'
+    number_of_products:
+      type: integer
+      label: 'Number of products to show'
+    max_age:
+      type: string
+      label: 'Cache'
+    bundle:
+      type: string
+      label: 'Select product bundle'
